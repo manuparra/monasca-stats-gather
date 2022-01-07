@@ -8,7 +8,7 @@ bash start.sh
 
 
 ```
-python get_dimensions.py
+python get_measures.py
 ```
 
 
